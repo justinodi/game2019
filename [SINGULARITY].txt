@@ -1,0 +1,75 @@
+[SINGULARITY] 
+
+In deep space, far from any star system, a space freighter drifts – unguided, engines silent. You, a(n) _____ on a routine voyage, wake up from cryo-sleep to find your pod is sealed 
+shut from the outside. After forcing it open, you discover the expansive ship has been overrun by countless new species of flora and fauna. Vibrant vines and fungal growths cover 
+the bright blue, flickering screens. Peaceful herbivores fly or crawl around, feasting on the plentiful bounty. It seems gentle at first, but you soon discover vicious predators and 
+deadly plants with toxic spores. You’ll have to find and repair semi-functional equipment and craft some new tools if you want to survive - or perhaps adapt to the environment in a 
+more extreme manner. As you venture through the ship, trying to fend off the deadly wildlife and recover other crew members, you begin to feel a sense of dread. Something is 
+terribly wrong. You can’t lose the feeling that you’re being watched, that something is breathing down the back of your neck, waiting for you to lower your guard. Stange 
+coincidences are becoming more frequent as malfunctioning systems seem to be intentionally impeding your progress. The ship is trying to keep its secrets from you. You head for the 
+helm, hoping to recover the black box. Will you find your answers or fall victim to the bizarre new wilderness? Do you even want the truth? 
+
+You’ll choose between two main paths, robotics or biology, gaining new skills and tools as you develop and change. The first big decision could be between a robotic drone companion 
+or a small creature that has imprinted on you. 
+
+[SINGULARITY] First Draft 
+
+Open on a faint blue light (top wall). A screen flickers to life. Vines block some of the light both on the screen and in the foreground. The rest of the lights flicker to life. A 
+large room with a row of stasis pods near the left wall. Most have been overgrown by a large, red growth. Tendrils grasp the pods, sealing in the occupants – all but one. Blue light 
+slowly pulses from behind the glass of the visible pod.  
+
+Press Any Button 
+
+The pod shakes slightly. 
+
+Press Any Button 
+
+The pod shakes again, violently. A small fracture appears in the glass. 
+
+Press Any Button 
+
+A boot breaks through the glass and retreats into the pod. A man emerges. He steps into the light, observing the strange surrounding.  
+
+Player Gains Movement Control 
+
+If the player interacts with the other pods, display: 
+
+1. “You peer through the glass, but from the state of the bodies, it appears their pods shut down long ago. Best not to dwell on it for now.” 
+
+2. “The tendrils of the growth wrap around the pods, sealing them shut. Perhaps they were attracted by the warmth of the life support.” 
+
+If the player interacts with the growth, display: 
+
+1. “It follows similar growth patterns to Earth-life but does not look like anything you have ever seen before.” 
+
+2. “You gather the courage to take a poke. It gives slightly at first, but quickly hardens in response to your touch.” 
+
+When the player interacts with the screen, display: 
+
+1. “Between small vines and a few cracks, a thick layer of dust has gathered on the screen. You wipe it off and try to access the personnel files.” 
+
+(If you don’t like the ‘corrupted text’ we can just change it to proper English) 
+
+Screen: “HelIo, p0d occupant 4%72. My memory^ seems to be cor/upted. .P1ease upda7e y0ur . Persona/ 1nform@tion. 
+
+Player Enters Their Name and Chooses a Preset Occupation (RPG Character Class) 
+
+Mechanic                 Trader                 Security Officer                 Janitor                 Systems Administrator 
+
+Colonist                    Stowaway          Medical Officer                 Cook                    Prize Fighter 
+
+(Class details, descriptions, skills/abilities to be discussed. Some have obvious traits. It would be funny if Janitor was fucking useless – hard mode) 
+
+Screen: “Pres s ‘y’ to conf_rm. 0therw*se, pres# ‘n’.” 
+
+The computer re-enters your information, introduce the character/stats menu.  
+
+Screen: “You m@y Be dis&rientedd from your long+term stas!s. F0r an in-dep[h reorie-tatio>, proc#ed to the creW qu%rters.” 
+
+Player Gains Movement Control 
+
+To Be Continued... 
+
+ 
+
+ 
