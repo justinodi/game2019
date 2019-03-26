@@ -58,10 +58,17 @@ Griffin Brome  Alexander Preston  Justin Odian
 
 
 >SCRIPTS
+
 -This folder is not for the story script, but for the
  C# scripts
 -All camelCase naming conventions strictly apply to
  all scripts to be used by unity
+ 
+ 
+ >ROUGH DRAFTS
+ 
+ -Just pics of ideas for sprites and arts
+ 
 
 
 [LINKS]
