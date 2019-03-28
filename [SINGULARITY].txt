@@ -1,22 +1,29 @@
 [SINGULARITY] 
 
-In deep space, far from any star system, a space freighter drifts ñ unguided, engines silent. You, a(n) _____ on a routine voyage, wake up from cryo-sleep to find your pod is sealed 
+In deep space, far from any star system, a space freighter drifts ‚Äì unguided, engines silent. You, a(n) _____ on a routine voyage, wake up from cryo-sleep to find your pod is sealed 
 shut from the outside. After forcing it open, you discover the expansive ship has been overrun by countless new species of flora and fauna. Vibrant vines and fungal growths cover 
 the bright blue, flickering screens. Peaceful herbivores fly or crawl around, feasting on the plentiful bounty. It seems gentle at first, but you soon discover vicious predators and 
-deadly plants with toxic spores. Youíll have to find and repair semi-functional equipment and craft some new tools if you want to survive - or perhaps adapt to the environment in a 
+deadly plants with toxic spores. You‚Äôll have to find and repair semi-functional equipment and craft some new tools if you want to survive - or perhaps adapt to the environment in a 
 more extreme manner. As you venture through the ship, trying to fend off the deadly wildlife and recover other crew members, you begin to feel a sense of dread. Something is 
-terribly wrong. You canít lose the feeling that youíre being watched, that something is breathing down the back of your neck, waiting for you to lower your guard. Stange 
+terribly wrong. You can‚Äôt lose the feeling that you‚Äôre being watched, that something is breathing down the back of your neck, waiting for you to lower your guard. Stange 
 coincidences are becoming more frequent as malfunctioning systems seem to be intentionally impeding your progress. The ship is trying to keep its secrets from you. You head for the 
 helm, hoping to recover the black box. Will you find your answers or fall victim to the bizarre new wilderness? Do you even want the truth? 
 
-Youíll choose between two main paths, robotics or biology, gaining new skills and tools as you develop and change. The first big decision could be between a robotic drone companion 
+You‚Äôll choose between two main paths, robotics or biology, gaining new skills and tools as you develop and change. The first big decision could be between a robotic drone companion 
 or a small creature that has imprinted on you. 
 
 [SINGULARITY] First Draft 
 
 Open on a faint blue light (top wall). A screen flickers to life. Vines block some of the light both on the screen and in the foreground. The rest of the lights flicker to life. A 
-large room with a row of stasis pods near the left wall. Most have been overgrown by a large, red growth. Tendrils grasp the pods, sealing in the occupants ñ all but one. Blue light 
+large room with a row of stasis pods near the left wall. Most have been overgrown by a large, red growth. Tendrils grasp the pods, sealing in the occupants ‚Äì all but one. Blue light 
 slowly pulses from behind the glass of the visible pod.  
+
+Player may scroll through the pods, revealing the character inside.
+Chooses a Preset Occupation (RPG Character Class) 
+
+Mechanic                 Trader                 Security Officer                 Janitor                 Systems Administrator 
+
+Colonist                 Stowaway               Medical Officer                   Cook                    Prize Fighter 
 
 Press Any Button 
 
@@ -34,41 +41,37 @@ Player Gains Movement Control
 
 If the player interacts with the other pods, display: 
 
-1. ìYou peer through the glass, but from the state of the bodies, it appears their pods shut down long ago. Best not to dwell on it for now.î 
+1. ‚ÄúYou peer through the glass, but from the state of the bodies, it appears their pods shut down long ago. Best not to dwell on it for now.‚Äù 
 
-2. ìThe tendrils of the growth wrap around the pods, sealing them shut. Perhaps they were attracted by the warmth of the life support.î 
+2. ‚ÄúThe tendrils of the growth wrap around the pods, sealing them shut. Perhaps they were attracted by the warmth of the life support.‚Äù 
 
 If the player interacts with the growth, display: 
 
-1. ìIt follows similar growth patterns to Earth-life but does not look like anything you have ever seen before.î 
+1. ‚ÄúIt follows similar growth patterns to Earth-life but does not look like anything you have ever seen before.‚Äù 
 
-2. ìYou gather the courage to take a poke. It gives slightly at first, but quickly hardens in response to your touch.î 
+2. ‚ÄúYou gather the courage to take a poke. It gives slightly at first, but quickly hardens in response to your touch.‚Äù 
 
 When the player interacts with the screen, display: 
 
-1. ìBetween small vines and a few cracks, a thick layer of dust has gathered on the screen. You wipe it off and try to access the personnel files.î 
+1. ‚ÄúBetween small vines and a few cracks, a thick layer of dust has gathered on the screen. You wipe it off and try to access the personnel files.‚Äù 
 
-(If you donít like the ëcorrupted textí we can just change it to proper English) 
+(If you don‚Äôt like the ‚Äòcorrupted text‚Äô we can just change it to proper English) 
 
-Screen: ìHelIo, p0d occupant 4%72. My memory^ seems to be cor/upted. .P1ease upda7e y0ur . Persona/ 1nform@tion. 
+Screen: ‚ÄúHelIo, p0d occupant 4%72. My memory^ seems to be cor/upted. .P1ease upda7e y0ur . Persona/ 1nform@tion. 
 
-Player Enters Their Name and Chooses a Preset Occupation (RPG Character Class) 
+Player Enters Their Name
 
-Mechanic                 Trader                 Security Officer                 Janitor                 Systems Administrator 
+(Class details, descriptions, skills/abilities to be discussed. Some have obvious traits. It would be funny if Janitor was fucking useless ‚Äì hard mode) 
 
-Colonist                    Stowaway          Medical Officer                 Cook                    Prize Fighter 
-
-(Class details, descriptions, skills/abilities to be discussed. Some have obvious traits. It would be funny if Janitor was fucking useless ñ hard mode) 
-
-Screen: ìPres s ëyí to conf_rm. 0therw*se, pres# ëní.î 
+Screen: ‚ÄúPres s ‚Äòy‚Äô to conf_rm. 0therw*se, pres# ‚Äòn‚Äô.‚Äù 
 
 The computer re-enters your information, introduce the character/stats menu.  
 
-Screen: ìYou m@y Be dis&rientedd from your long+term stas!s. F0r an in-dep[h reorie-tatio>, proc#ed to the creW qu%rters.î 
+Screen: ‚ÄúYou m@y Be dis&rientedd from your long+term stas!s. F0r an in-dep[h reorie-tation, proc#ed to the creW qu%rters.‚Äù 
 
 Player Gains Movement Control 
 
-To Be Continued... 
+The player leaves through a barely functional door right wall. Transition to hallway that has also been overgrown. You walk down about halfway and discover a small insect buzzing around. It lands on your head for a moment, than takes off again, only to be snapped up the tendril of a nearby plant. You continue to walk. Exit door right wall. 
 
  
 
